@@ -13,23 +13,23 @@
 - 🔭 I’m currently working on my **Web Development Projects**
 - 🌱 I’m currently learning **React**
 - 🤝 Open to collaboration
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development | Data Analysis**
 
 ## Technology Stack I've worked with:
 **Programming Languages**
 
-<img title="py" alt="py" width="40px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg">|<img alt="JS" title="JavaScript" width="50px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg">| <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" alt="c" width="60" height="60"/>|<img title="Css" alt="Css" width="60px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg">|<img title="html" alt="html" width="60px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg">|<img title="ms" alt="ms" width="60px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg">|<img title="r" alt="r" width="40px" src="https://www.r-project.org/logo/Rlogo.svg"> | <img title="ml" alt="ml" width="60px" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png"> | <img title = "java" alt="java" width="60px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg">
+<img title="Python" alt="Python" width="40px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg">|<img alt="JS" title="JavaScript" width="50px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg">| <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" alt="c" width="60" height="60"/>|<img title="Css" alt="Css" width="60px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg">|<img title="Html" alt="Html" width="60px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg">|<img title="MySQL" alt="MySQL" width="60px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg">|<img title="R" alt="R" width="40px" src="https://www.r-project.org/logo/Rlogo.svg"> | <img title="Matlab" alt="Matlab" width="60px" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png"> | <img title = "Java" alt="Java" width="60px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg">
 |--|--|--|--|--|--|--|--|--|
 
 **Frameworks/Libraries**
-<img title="Django" alt="Django" height="30px" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/django-dark.png">|<img title="Django Rest Framework" alt="DRF" width="45px" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Node" alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://res.cloudinary.com/penname/image/fetch/https://miro.medium.com/max/570/1*QR2SBNwG75LyY5uwqWpN3A.png">|<img title="Socket.io" alt="Socket.io" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">|<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-|--|--|--|--|--|--|--|--|--|--|--|
+<img title="React" alt="React" height="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/react.svg">|<img title="Django Rest Framework" alt="DRF" width="45px" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://res.cloudinary.com/penname/image/fetch/https://miro.medium.com/max/570/1*QR2SBNwG75LyY5uwqWpN3A.png">
+|--|--|--|
 
 
-**Hosting & Deployment**
+**Hosting & Deployment & Cloud**
 
-|<img title="Netlify" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png">
-|--|--|
+|<img title="AWS" alt="AWS" width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/amazon.svg">|<img title="Azure" alt="Azure" width="70px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/azure.svg">|<img title="Gcloud" alt="Gcloud" height="60px" src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/gcloud.svg">|<img title="github" alt="github" height="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/github.svg">
+|--|--|--|--|
 
 **Databases**
 
