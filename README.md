@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Yihan 👋</h1>
+<h1 align="center">Hey, I'm Yihan Zhou 👋</h1>
 <h4 align="center">First year of graduation from Master of IT in Monash University</h4>
 <h4 align="center">Developer | Programmer | Designer | Analyzer</h4>
 
@@ -28,18 +28,14 @@
 
 **Hosting & Deployment & Cloud**
 
-|<img title="AWS" alt="AWS" width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/amazon.svg">|<img title="Azure" alt="Azure" width="70px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/azure.svg">|<img title="Gcloud" alt="Gcloud" height="60px" src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/gcloud.svg">|<img title="github" alt="github" height="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/github.svg">
-|--|--|--|--|
+|<img title="AWS" alt="AWS" width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/amazon.svg">|<img title="Azure" alt="Azure" width="70px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/azure.svg">|<img title="Gcloud" alt="Gcloud" height="80px" src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/gcloud.svg">|<img title="github" alt="github" height="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/github.svg">|<img title="GitLab" alt="Gitlab" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/gitlab.svg">
+|--|--|--|--|--|
 
-**Databases**
 
-<img title="SQL" alt="SQL" width="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">|<img title="MongoDB" alt="MongoDB" height="30px" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png">|<img title="Cloud Firestore" alt="Cloud Firestore" width="40px" src="https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-db-firestore.png"> <br>
-|--|--|--|
+**Integrated Development Environment(IDE)**
 
-**Other**
-
-|<img title="Git" alt="Git" width="40px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg">
+|<img title="PyCharm" alt="PyCharm" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/ides/pycharm.svg">|<img title="PyCharm" alt="PyCharm" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/ides/pycharm.svg">
 |--|
 <br>
 
-Thanks for visiting! I'd love to <a href="https://www.linkedin.com/in/siddhi-jhunjhunwala">connect!</a>
+Thanks for visiting! I'd love to <a href="https://www.linkedin.com/in/yihanjojo/">connect!</a>
