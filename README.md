@@ -22,8 +22,8 @@
 |--|--|--|--|--|--|--|--|--|
 
 **Frameworks/Libraries**
-<img title="React" alt="React" height="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/react.svg">|<img title="Django Rest Framework" alt="DRF" width="45px" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://res.cloudinary.com/penname/image/fetch/https://miro.medium.com/max/570/1*QR2SBNwG75LyY5uwqWpN3A.png">
-|--|--|--|
+<img title="React" alt="React" height="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/react.svg">|<img title="Redux" alt="Redux" height="50px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">|<img title="Django Rest Framework" alt="DRF" width="45px" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://res.cloudinary.com/penname/image/fetch/https://miro.medium.com/max/570/1*QR2SBNwG75LyY5uwqWpN3A.png">
+|--|--|--|--|
 
 
 **Hosting & Deployment & Cloud**
